@@ -19,7 +19,7 @@ function NewMeetupPage() {
     }
 	return (
 		<section>
-			<h1>New Meets!</h1>
+			<h1 style={{textAlign:"center" }}>New Meets!</h1>
 			<NewMeetupForm onAddMeetup={addMeetupHandler} />
 		</section>
 	);

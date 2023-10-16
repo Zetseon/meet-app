@@ -35,7 +35,7 @@ function AllMeetupsPage() {
 	}
 	return (
 		<section>
-			<h1>All Meetups Page!</h1>
+			<h1 style={{textAlign:"center" }}>All Meetups Page!</h1>
 			<ul>
 				<MeetupList items={loadedMeetups} />
 			</ul>

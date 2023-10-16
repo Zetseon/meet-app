@@ -12,7 +12,7 @@ function FavoritesPage() {
 	}
 	return (
 		<section>
-			<h1>My Favorites</h1>
+			<h1 style={{textAlign:"center" }}>My Favorites</h1>
 			{content}
 		</section>
 	);
