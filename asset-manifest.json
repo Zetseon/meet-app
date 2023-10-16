@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meet-app/static/css/main.29a766d6.css",
+    "main.js": "/meet-app/static/js/main.19a79b07.js",
+    "index.html": "/meet-app/index.html",
+    "main.29a766d6.css.map": "/meet-app/static/css/main.29a766d6.css.map",
+    "main.19a79b07.js.map": "/meet-app/static/js/main.19a79b07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29a766d6.css",
+    "static/js/main.19a79b07.js"
+  ]
+}
